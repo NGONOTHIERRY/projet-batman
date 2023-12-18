@@ -1,5 +1,5 @@
 # projet DC : batman
-[cover](https://i.imgur.com/hgknLEP.jpg)
+[cover](https://ngonothierry.github.io/projet-batman/)
 [Voir la page](https://ngonothierry.github.io/projet-batman/)
 
 >📝 page de la de garde pour batman
